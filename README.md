@@ -72,33 +72,33 @@ Skopiuj kod
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/website-demo.git
-Open the desired HTML file in your browser:
+2. Open the desired HTML file in your browser:
 
-For English homepage: main_eng.html
+- For English homepage: main_eng.html
 
-For German homepage: index.html
+- For German homepage: index.html
 
-Open gallery pages:
+3. Open gallery pages:
 
-English: gallery_eng.html
+- English: gallery_eng.html
 
-German: gallery.html
+- German: gallery.html
 
 No backend or additional server is required; the website runs entirely in the browser.
 
-Usage
-Click on menu links to navigate between sections.
+ ## Usage
+- Click on menu links to navigate between sections.
 
-Switch languages using the small flag buttons in the top navigation.
+- Switch languages using the small flag buttons in the top navigation.
 
-Click on gallery images to open them in a modal window.
+- Click on gallery images to open them in a modal window.
 
-Use the arrows or keyboard navigation to browse gallery images.
+- Use the arrows or keyboard navigation to browse gallery images.
 
-Resize the browser window to see the responsive layout in action.
+- Resize the browser window to see the responsive layout in action.
 
-License
-This project is for demonstration purposes only. Commercial use is not allowed. You may use it for personal, educational, or portfolio purposes.
+ ## License
+This project is for demonstration purposes only. All rights reserved. Unauthorized commercial use of any part of this website is prohibited.
 
-Author: Ola
+Author: Aleksandra Zajda
 Year: 2025
