@@ -62,8 +62,6 @@ The project is intended as a proof-of-concept and can be adapted for full client
 ├── img2/ # Optimized image assets
 └── font/ # Custom icon fonts (Fontello)
 ```
-yaml
-Skopiuj kod
 
 ---
 
